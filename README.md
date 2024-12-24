@@ -1,8 +1,6 @@
-<div align="center">
-  <br />
-      <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
-  <br />
+![](https://github.com/Ahmed-Mohamed-Saeed/Xora-SaaS/blob/master/public/images/xora.png "This site looks cool doesn't it?")
 
+<div align="center">
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
