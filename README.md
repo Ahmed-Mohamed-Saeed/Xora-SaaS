@@ -1,4 +1,4 @@
-![](https://github.com/Ahmed-Mohamed-Saeed/Xora-SaaS/blob/master/public/images/xora.png "This site looks cool doesn't it?")
+![](https://github.com/Ahmed-Mohamed-Saeed/Xora-SaaS/blob/main/public/images/xora.png "This site looks cool doesn't it?")
 
 <div align="center">
   <div>
